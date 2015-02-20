@@ -1,0 +1,43 @@
+@font-face:
+{
+	font-family: "Georgia","Times New Roman";
+	font-weight: bold;
+}
+
+div li {
+	background-color: #00FF00;
+	display: block;
+	font-family: "Georgia";
+	padding: 10px 10px 10px 10px;
+	width: 100px;
+	text-align: left;
+	text-decoration: none;
+}
+
+div li:hover {
+	background-color: #00CC00;
+	display: block;
+	font-family: "Georgia";
+	padding: 10px 10px 10px 10px;
+	width: 100px;
+	text-align: left;
+	text-decoration: none;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+
+footer {
+	
+}
+
+input {
+	font-family: "Georgia","Times New Roman";
+	font-weight: bold;
+}
+
+textarea {
+	font-family: "Georgia","Times New Roman";
+	font-weight: bold;
+}
